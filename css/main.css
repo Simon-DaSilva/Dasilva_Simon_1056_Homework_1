@@ -28,4 +28,11 @@ article {
 img {
     margin-top: 20px;
     margin-bottom: 30px;
+    max-width:450%;
+    max-height:450%;
+}
+
+#kanit {
+    font-family: "Kanit", sans-serif;
+    line-height: 2;
 }
